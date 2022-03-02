@@ -2,30 +2,27 @@ import React, { useState } from 'react';
 import './App.css';
 import About from './components/About'
 import ContactForm from './components/Contact';
-import Nav from './components/Nav';
+import Header from './components/Header'
 import Footer from './components/Footer';
+
 
 
 function App() {
 
-  const [category, setCategorySelected] = useState("AboutMe");
+  const [category, categorySelected] = useState("AboutMe");
 
 
 
   return (
     <div className="App">
-      <Nav setCategorySelected={setCategorySelected} />
+    <Header categorySelected={categorySelected} />
       <main className='main'>
-
-        {category === "ContactForm" && (
-          <>
-            <ContactForm />
-          </>
-        )}
-
-        {category === "AboutMe" && (
-          <>
-            <About />
+          {category === "ContactForm" && (
+          <> <ContactForm />
+          </>)}
+          {category === "AboutMe" && (
+                         <>
+                   <About />
           </>
         )}
 

@@ -9,3 +9,10 @@
     justify-content: flex-end;
     
 }
+
+footer h3 {
+    color: #d1e8e2;
+}
+footer ul li a {
+    color: #d1e8e2;
+}

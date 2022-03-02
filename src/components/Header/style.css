@@ -1,0 +1,22 @@
+header {
+    background-color: #116466;
+   
+    padding: 20px 35px;
+  
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  
+    top: 0;
+
+
+}
+h1 {
+   
+        font-weight: bold;
+        font-size: 36px;
+       color: #d1e8e2;
+        margin: 0px;
+      
+    
+}
