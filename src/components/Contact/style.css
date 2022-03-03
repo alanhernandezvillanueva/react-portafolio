@@ -40,6 +40,7 @@ section  {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+   padding-bottom: 20px;
   }
   
   button {
@@ -50,7 +51,4 @@ section  {
   }
 section h1 {
     color: #116466;
-}
-section{
-    margin-bottom: 50px;
 }

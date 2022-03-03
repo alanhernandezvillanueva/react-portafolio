@@ -15,7 +15,7 @@ function ContactForm() {
 
     return (
         <section>
-          <h1 className="contactForm">Contact me</h1>
+          <h1 className="contactForm">Reach Out</h1>
           <form id="contact-form">
             <div>
               <label htmlFor="name">Name:</label>

@@ -5,6 +5,7 @@ import ContactForm from './components/Contact';
 import Header from './components/Header'
 import Footer from './components/Footer';
 import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
 
 
 
@@ -29,6 +30,11 @@ function App() {
                   {category === "Resume" && (
                          <>
                    <Resume />
+          </>
+        )}
+                          {category === "Portfolio" && (
+                         <>
+                   <Portfolio />
           </>
         )}
 
