@@ -4,6 +4,7 @@ import About from './components/About'
 import ContactForm from './components/Contact';
 import Header from './components/Header'
 import Footer from './components/Footer';
+import Resume from './components/Resume';
 
 
 
@@ -23,6 +24,11 @@ function App() {
           {category === "AboutMe" && (
                          <>
                    <About />
+          </>
+        )}
+                  {category === "Resume" && (
+                         <>
+                   <Resume />
           </>
         )}
 
