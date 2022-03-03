@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portafolio-/static/css/main.ef05dae6.css",
+    "main.js": "/react-portafolio-/static/js/main.f057078c.js",
+    "static/js/787.9a7b0f04.chunk.js": "/react-portafolio-/static/js/787.9a7b0f04.chunk.js",
+    "static/media/covid19-directory.png": "/react-portafolio-/static/media/covid19-directory.2a72f89fb0e8cc3fe2c8.png",
+    "static/media/run-buddy.jpeg": "/react-portafolio-/static/media/run-buddy.000e1b5ff4f0b912c97f.jpeg",
+    "static/media/ski-haus.jpeg": "/react-portafolio-/static/media/ski-haus.11f4f91634b4f0d99c78.jpeg",
+    "static/media/IMG_1463 (1).jpg": "/react-portafolio-/static/media/IMG_1463 (1).5f0f9d836045d364a32f.jpg",
+    "static/media/resume.pdf": "/react-portafolio-/static/media/resume.fb9a2161ac6c9af61ade.pdf",
+    "static/media/password-generator.webp": "/react-portafolio-/static/media/password-generator.bbf0c1e6704a58d09b37.webp",
+    "static/media/robot-gladiators.jpg": "/react-portafolio-/static/media/robot-gladiators.99782289b0f1bfec3073.jpg",
+    "index.html": "/react-portafolio-/index.html",
+    "main.ef05dae6.css.map": "/react-portafolio-/static/css/main.ef05dae6.css.map",
+    "main.f057078c.js.map": "/react-portafolio-/static/js/main.f057078c.js.map",
+    "787.9a7b0f04.chunk.js.map": "/react-portafolio-/static/js/787.9a7b0f04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef05dae6.css",
+    "static/js/main.f057078c.js"
+  ]
+}
