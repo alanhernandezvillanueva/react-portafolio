@@ -9,4 +9,4 @@
 
 https://alanhernandezvillanueva.github.io/react-portafolio/
 
-<img src="./assets/Screen Shot 2022-02-25 at 8.06.50 PM.png"
+<img src="./src/assets/16964E66-9D36-4DEE-A8DE-3739AE55810A.jpeg"
