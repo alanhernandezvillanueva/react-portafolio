@@ -9,4 +9,4 @@
 
 https://alanhernandezvillanueva.github.io/react-portafolio/
 
-<img src="./src/assets/16964E66-9D36-4DEE-A8DE-3739AE55810A.jpeg"
+<img src="./src/assets/16964E66-9D36-4DEE-A8DE-3739AE55810A.jpeg">
