@@ -1,6 +1,6 @@
 {
   "name": "reac-portfolio",
-  "homepage": "https://alanhernandezvillanueva.github.io/react-portafolio-/",
+  "homepage": "https://alanhernandezvillanueva.github.io/react-portafolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,6 +42,7 @@
   "devDependencies": {
     "-": "^0.0.1",
     "gh": "^2.8.9",
+    "gh-pages": "^3.2.3",
     "pages": "^0.0.16"
   }
 }
