@@ -1,5 +1,5 @@
 
-###   React Portfolio
+#   React Portfolio
 
 ## My React portfolio will be used to let employeers know who I am and to showcase some of my work.
 
